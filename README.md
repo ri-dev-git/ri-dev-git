@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ri-dev-git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in music, art, tech and philosophies!
+- 🌱 I’m currently learning blockchain and AR/VR.
+- 💞️ I’m looking to collaborate on blockchain opern-source projects!
+- 📫 How to reach me:
+- mail:hrishikeshdeoghare@gmail.com
 
 <!---
 ri-dev-git/ri-dev-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
